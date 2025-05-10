@@ -6,7 +6,7 @@ Hi! I'm **Xiaoxi Li**.
 
 I'm currently a **2nd-year PhD student** (2023~2028) at Renmin University of China.
 
-I am now focused on **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **LLM Reasoning**, with a particular focus on developing **Deep Research Agents**.
+I am now focused on **Retrieval-Augmented Generation** and **Large Reasoning Models**, with a particular focus on developing **Deep Research Agents**.
 
 📫How to reach me: [Email](mailto:xiaoxi_li@ruc.edu.cn) | [Google Scholar](https://scholar.google.com/citations?user=XDljV4YAAAAJ)
 
