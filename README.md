@@ -8,5 +8,5 @@ I'm currently a **2nd-year PhD student** (2023~2028) at Renmin University of Chi
 
 I am now focused on **Retrieval-Augmented Generation** and **Large Reasoning Models**, with a particular focus on developing **Deep Research Agents**.
 
-📫How to reach me: [Email](mailto:xiaoxi_li@ruc.edu.cn) | [Twitter](https://x.com/XiaoxiLi0111) | [Scholar](https://scholar.google.com/citations?user=XDljV4YAAAAJ) | [Homepage](https://xiaoxi-li1.github.io/)
+📫 Contact: [Email](mailto:xiaoxi_li@ruc.edu.cn) | [Twitter](https://x.com/XiaoxiLi0111) | [Scholar](https://scholar.google.com/citations?user=XDljV4YAAAAJ) | [Homepage](https://xiaoxi-li1.github.io/)
 
