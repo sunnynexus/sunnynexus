@@ -4,7 +4,7 @@
 
 Hi! I'm **Xiaoxi Li**.
 
-I'm currently a **2nd-year PhD student** (2023~2028) at Renmin University of China.
+I'm currently a **3rd-year PhD student** (2023~2028) at Renmin University of China.
 
 I am now focused on **Retrieval-Augmented Generation** and **LLM Reasoning**, with a particular focus on developing **Deep Research Agents**.
 
