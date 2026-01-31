@@ -6,7 +6,7 @@ Hi! I'm **Xiaoxi Li**.
 
 I am currently a 3rd year PhD student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), mentored by Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou). I earned my bachelor's degree (2019-2023) at [Nankai University](https://www.nankai.edu.cn/).
 
-I’m currently a REDstar research intern focusing on foundation agent research at Xiaohongshu Inc. I have published 10+ papers in top-tier AI conferences and journals (7 first-author papers), including NeurIPS, ACL, EMNLP, AAAI, SIGIR, WWW, and TOIS.
+I’m currently a REDstar research intern focusing on foundation agent research at Xiaohongshu Inc. I have published 10+ papers in top-tier AI conferences and journals (7 first-author papers), including NeurIPS, ICLR, ACL, EMNLP, AAAI, SIGIR, WWW, and TOIS.
 
 ## Research Interests
 - **Foundation Agents:** Developing general-purpose agentic LLMs ([DeepAgent](https://arxiv.org/abs/2510.21618), [AEPO](https://arxiv.org/abs/2510.14545), [Tool-Star](https://arxiv.org/abs/2505.16410));
